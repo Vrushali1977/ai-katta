@@ -1,0 +1,15 @@
+# Ignore node modules
+node_modules/
+
+# Environment variables
+*.env
+
+# Logs
+*.log
+
+# Python cache
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db

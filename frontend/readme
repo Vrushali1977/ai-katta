@@ -1,0 +1,13 @@
+Sweet Shop Frontend
+This is the frontend for the Sweet Shop Management System. It's a modern and responsive e-commerce UI built with React and styled with Tailwind CSS.
+
+Setup
+Make sure you have Node.js and npm installed.
+
+Install the dependencies:
+
+npm install
+
+Run the development server:
+
+npm start

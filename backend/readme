@@ -1,0 +1,13 @@
+Sweet Shop Backend
+This is the backend for the Sweet Shop Management System. It's built with FastAPI and uses SQLAlchemy for database operations.
+
+Setup
+Make sure you have Python installed.
+
+Install the dependencies:
+
+pip install -r requirements.txt
+
+Run the server:
+
+uvicorn app.main:app --reload
